@@ -6,7 +6,7 @@ public class Calculatrice {
 	}
 
 
-	public int multiplier(int a, int b) {
+	public static int multiplier(int a, int b) {
         	return a * b;
     	}
 }
